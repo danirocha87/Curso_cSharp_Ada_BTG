@@ -1,0 +1,5 @@
+C:\_fontes\Ada_BTG_2023\SegundoModulo_Ada_BTG\ExercicioPrimeiraAula\Exercicio01\Exercicio02\obj\Debug\net6.0\Exercicio02.csproj.AssemblyReference.cache
+C:\_fontes\Ada_BTG_2023\SegundoModulo_Ada_BTG\ExercicioPrimeiraAula\Exercicio01\Exercicio02\obj\Debug\net6.0\Exercicio02.GeneratedMSBuildEditorConfig.editorconfig
+C:\_fontes\Ada_BTG_2023\SegundoModulo_Ada_BTG\ExercicioPrimeiraAula\Exercicio01\Exercicio02\obj\Debug\net6.0\Exercicio02.AssemblyInfoInputs.cache
+C:\_fontes\Ada_BTG_2023\SegundoModulo_Ada_BTG\ExercicioPrimeiraAula\Exercicio01\Exercicio02\obj\Debug\net6.0\Exercicio02.AssemblyInfo.cs
+C:\_fontes\Ada_BTG_2023\SegundoModulo_Ada_BTG\ExercicioPrimeiraAula\Exercicio01\Exercicio02\obj\Debug\net6.0\Exercicio02.csproj.CoreCompileInputs.cache

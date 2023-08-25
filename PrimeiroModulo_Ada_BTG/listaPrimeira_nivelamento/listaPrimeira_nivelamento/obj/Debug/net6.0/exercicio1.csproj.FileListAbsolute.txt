@@ -1,0 +1,15 @@
+C:\_fontes\Ada_BTG_2023\listaPrimeira_nivelamento\listaPrimeira_nivelamento\bin\Debug\net6.0\exercicio1.exe
+C:\_fontes\Ada_BTG_2023\listaPrimeira_nivelamento\listaPrimeira_nivelamento\bin\Debug\net6.0\exercicio1.deps.json
+C:\_fontes\Ada_BTG_2023\listaPrimeira_nivelamento\listaPrimeira_nivelamento\bin\Debug\net6.0\exercicio1.runtimeconfig.json
+C:\_fontes\Ada_BTG_2023\listaPrimeira_nivelamento\listaPrimeira_nivelamento\bin\Debug\net6.0\exercicio1.dll
+C:\_fontes\Ada_BTG_2023\listaPrimeira_nivelamento\listaPrimeira_nivelamento\bin\Debug\net6.0\exercicio1.pdb
+C:\_fontes\Ada_BTG_2023\listaPrimeira_nivelamento\listaPrimeira_nivelamento\obj\Debug\net6.0\exercicio1.csproj.AssemblyReference.cache
+C:\_fontes\Ada_BTG_2023\listaPrimeira_nivelamento\listaPrimeira_nivelamento\obj\Debug\net6.0\exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\_fontes\Ada_BTG_2023\listaPrimeira_nivelamento\listaPrimeira_nivelamento\obj\Debug\net6.0\exercicio1.AssemblyInfoInputs.cache
+C:\_fontes\Ada_BTG_2023\listaPrimeira_nivelamento\listaPrimeira_nivelamento\obj\Debug\net6.0\exercicio1.AssemblyInfo.cs
+C:\_fontes\Ada_BTG_2023\listaPrimeira_nivelamento\listaPrimeira_nivelamento\obj\Debug\net6.0\exercicio1.csproj.CoreCompileInputs.cache
+C:\_fontes\Ada_BTG_2023\listaPrimeira_nivelamento\listaPrimeira_nivelamento\obj\Debug\net6.0\exercicio1.dll
+C:\_fontes\Ada_BTG_2023\listaPrimeira_nivelamento\listaPrimeira_nivelamento\obj\Debug\net6.0\refint\exercicio1.dll
+C:\_fontes\Ada_BTG_2023\listaPrimeira_nivelamento\listaPrimeira_nivelamento\obj\Debug\net6.0\exercicio1.pdb
+C:\_fontes\Ada_BTG_2023\listaPrimeira_nivelamento\listaPrimeira_nivelamento\obj\Debug\net6.0\exercicio1.genruntimeconfig.cache
+C:\_fontes\Ada_BTG_2023\listaPrimeira_nivelamento\listaPrimeira_nivelamento\obj\Debug\net6.0\ref\exercicio1.dll

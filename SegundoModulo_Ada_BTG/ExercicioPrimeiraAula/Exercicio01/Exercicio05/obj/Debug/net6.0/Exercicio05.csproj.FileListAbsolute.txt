@@ -1,0 +1,15 @@
+C:\_fontes\Ada_BTG_2023\SegundoModulo_Ada_BTG\ExercicioPrimeiraAula\Exercicio01\Exercicio05\bin\Debug\net6.0\Exercicio05.exe
+C:\_fontes\Ada_BTG_2023\SegundoModulo_Ada_BTG\ExercicioPrimeiraAula\Exercicio01\Exercicio05\bin\Debug\net6.0\Exercicio05.deps.json
+C:\_fontes\Ada_BTG_2023\SegundoModulo_Ada_BTG\ExercicioPrimeiraAula\Exercicio01\Exercicio05\bin\Debug\net6.0\Exercicio05.runtimeconfig.json
+C:\_fontes\Ada_BTG_2023\SegundoModulo_Ada_BTG\ExercicioPrimeiraAula\Exercicio01\Exercicio05\bin\Debug\net6.0\Exercicio05.dll
+C:\_fontes\Ada_BTG_2023\SegundoModulo_Ada_BTG\ExercicioPrimeiraAula\Exercicio01\Exercicio05\bin\Debug\net6.0\Exercicio05.pdb
+C:\_fontes\Ada_BTG_2023\SegundoModulo_Ada_BTG\ExercicioPrimeiraAula\Exercicio01\Exercicio05\obj\Debug\net6.0\Exercicio05.csproj.AssemblyReference.cache
+C:\_fontes\Ada_BTG_2023\SegundoModulo_Ada_BTG\ExercicioPrimeiraAula\Exercicio01\Exercicio05\obj\Debug\net6.0\Exercicio05.GeneratedMSBuildEditorConfig.editorconfig
+C:\_fontes\Ada_BTG_2023\SegundoModulo_Ada_BTG\ExercicioPrimeiraAula\Exercicio01\Exercicio05\obj\Debug\net6.0\Exercicio05.AssemblyInfoInputs.cache
+C:\_fontes\Ada_BTG_2023\SegundoModulo_Ada_BTG\ExercicioPrimeiraAula\Exercicio01\Exercicio05\obj\Debug\net6.0\Exercicio05.AssemblyInfo.cs
+C:\_fontes\Ada_BTG_2023\SegundoModulo_Ada_BTG\ExercicioPrimeiraAula\Exercicio01\Exercicio05\obj\Debug\net6.0\Exercicio05.csproj.CoreCompileInputs.cache
+C:\_fontes\Ada_BTG_2023\SegundoModulo_Ada_BTG\ExercicioPrimeiraAula\Exercicio01\Exercicio05\obj\Debug\net6.0\Exercicio05.dll
+C:\_fontes\Ada_BTG_2023\SegundoModulo_Ada_BTG\ExercicioPrimeiraAula\Exercicio01\Exercicio05\obj\Debug\net6.0\refint\Exercicio05.dll
+C:\_fontes\Ada_BTG_2023\SegundoModulo_Ada_BTG\ExercicioPrimeiraAula\Exercicio01\Exercicio05\obj\Debug\net6.0\Exercicio05.pdb
+C:\_fontes\Ada_BTG_2023\SegundoModulo_Ada_BTG\ExercicioPrimeiraAula\Exercicio01\Exercicio05\obj\Debug\net6.0\Exercicio05.genruntimeconfig.cache
+C:\_fontes\Ada_BTG_2023\SegundoModulo_Ada_BTG\ExercicioPrimeiraAula\Exercicio01\Exercicio05\obj\Debug\net6.0\ref\Exercicio05.dll

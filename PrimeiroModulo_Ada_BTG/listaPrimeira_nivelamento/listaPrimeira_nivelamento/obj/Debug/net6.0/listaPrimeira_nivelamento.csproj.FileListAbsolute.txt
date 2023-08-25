@@ -1,0 +1,15 @@
+C:\_fontes\Ada_BTG_2023\listaPrimeira_nivelamento\listaPrimeira_nivelamento\bin\Debug\net6.0\listaPrimeira_nivelamento.exe
+C:\_fontes\Ada_BTG_2023\listaPrimeira_nivelamento\listaPrimeira_nivelamento\bin\Debug\net6.0\listaPrimeira_nivelamento.deps.json
+C:\_fontes\Ada_BTG_2023\listaPrimeira_nivelamento\listaPrimeira_nivelamento\bin\Debug\net6.0\listaPrimeira_nivelamento.runtimeconfig.json
+C:\_fontes\Ada_BTG_2023\listaPrimeira_nivelamento\listaPrimeira_nivelamento\bin\Debug\net6.0\listaPrimeira_nivelamento.dll
+C:\_fontes\Ada_BTG_2023\listaPrimeira_nivelamento\listaPrimeira_nivelamento\bin\Debug\net6.0\listaPrimeira_nivelamento.pdb
+C:\_fontes\Ada_BTG_2023\listaPrimeira_nivelamento\listaPrimeira_nivelamento\obj\Debug\net6.0\listaPrimeira_nivelamento.csproj.AssemblyReference.cache
+C:\_fontes\Ada_BTG_2023\listaPrimeira_nivelamento\listaPrimeira_nivelamento\obj\Debug\net6.0\listaPrimeira_nivelamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\_fontes\Ada_BTG_2023\listaPrimeira_nivelamento\listaPrimeira_nivelamento\obj\Debug\net6.0\listaPrimeira_nivelamento.AssemblyInfoInputs.cache
+C:\_fontes\Ada_BTG_2023\listaPrimeira_nivelamento\listaPrimeira_nivelamento\obj\Debug\net6.0\listaPrimeira_nivelamento.AssemblyInfo.cs
+C:\_fontes\Ada_BTG_2023\listaPrimeira_nivelamento\listaPrimeira_nivelamento\obj\Debug\net6.0\listaPrimeira_nivelamento.csproj.CoreCompileInputs.cache
+C:\_fontes\Ada_BTG_2023\listaPrimeira_nivelamento\listaPrimeira_nivelamento\obj\Debug\net6.0\listaPrimeira_nivelamento.dll
+C:\_fontes\Ada_BTG_2023\listaPrimeira_nivelamento\listaPrimeira_nivelamento\obj\Debug\net6.0\refint\listaPrimeira_nivelamento.dll
+C:\_fontes\Ada_BTG_2023\listaPrimeira_nivelamento\listaPrimeira_nivelamento\obj\Debug\net6.0\listaPrimeira_nivelamento.pdb
+C:\_fontes\Ada_BTG_2023\listaPrimeira_nivelamento\listaPrimeira_nivelamento\obj\Debug\net6.0\listaPrimeira_nivelamento.genruntimeconfig.cache
+C:\_fontes\Ada_BTG_2023\listaPrimeira_nivelamento\listaPrimeira_nivelamento\obj\Debug\net6.0\ref\listaPrimeira_nivelamento.dll
