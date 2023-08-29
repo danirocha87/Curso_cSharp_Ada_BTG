@@ -1,0 +1,15 @@
+C:\_fontes\Ada_BTG_2023\SegundoModulo_Ada_BTG\ExercicioPrimeiraAula\Exercicio02_Interface_Aula02\Exercicio02\bin\Debug\net6.0\Exercicio02.exe
+C:\_fontes\Ada_BTG_2023\SegundoModulo_Ada_BTG\ExercicioPrimeiraAula\Exercicio02_Interface_Aula02\Exercicio02\bin\Debug\net6.0\Exercicio02.deps.json
+C:\_fontes\Ada_BTG_2023\SegundoModulo_Ada_BTG\ExercicioPrimeiraAula\Exercicio02_Interface_Aula02\Exercicio02\bin\Debug\net6.0\Exercicio02.runtimeconfig.json
+C:\_fontes\Ada_BTG_2023\SegundoModulo_Ada_BTG\ExercicioPrimeiraAula\Exercicio02_Interface_Aula02\Exercicio02\bin\Debug\net6.0\Exercicio02.dll
+C:\_fontes\Ada_BTG_2023\SegundoModulo_Ada_BTG\ExercicioPrimeiraAula\Exercicio02_Interface_Aula02\Exercicio02\bin\Debug\net6.0\Exercicio02.pdb
+C:\_fontes\Ada_BTG_2023\SegundoModulo_Ada_BTG\ExercicioPrimeiraAula\Exercicio02_Interface_Aula02\Exercicio02\obj\Debug\net6.0\Exercicio02.csproj.AssemblyReference.cache
+C:\_fontes\Ada_BTG_2023\SegundoModulo_Ada_BTG\ExercicioPrimeiraAula\Exercicio02_Interface_Aula02\Exercicio02\obj\Debug\net6.0\Exercicio02.GeneratedMSBuildEditorConfig.editorconfig
+C:\_fontes\Ada_BTG_2023\SegundoModulo_Ada_BTG\ExercicioPrimeiraAula\Exercicio02_Interface_Aula02\Exercicio02\obj\Debug\net6.0\Exercicio02.AssemblyInfoInputs.cache
+C:\_fontes\Ada_BTG_2023\SegundoModulo_Ada_BTG\ExercicioPrimeiraAula\Exercicio02_Interface_Aula02\Exercicio02\obj\Debug\net6.0\Exercicio02.AssemblyInfo.cs
+C:\_fontes\Ada_BTG_2023\SegundoModulo_Ada_BTG\ExercicioPrimeiraAula\Exercicio02_Interface_Aula02\Exercicio02\obj\Debug\net6.0\Exercicio02.csproj.CoreCompileInputs.cache
+C:\_fontes\Ada_BTG_2023\SegundoModulo_Ada_BTG\ExercicioPrimeiraAula\Exercicio02_Interface_Aula02\Exercicio02\obj\Debug\net6.0\Exercicio02.dll
+C:\_fontes\Ada_BTG_2023\SegundoModulo_Ada_BTG\ExercicioPrimeiraAula\Exercicio02_Interface_Aula02\Exercicio02\obj\Debug\net6.0\refint\Exercicio02.dll
+C:\_fontes\Ada_BTG_2023\SegundoModulo_Ada_BTG\ExercicioPrimeiraAula\Exercicio02_Interface_Aula02\Exercicio02\obj\Debug\net6.0\Exercicio02.pdb
+C:\_fontes\Ada_BTG_2023\SegundoModulo_Ada_BTG\ExercicioPrimeiraAula\Exercicio02_Interface_Aula02\Exercicio02\obj\Debug\net6.0\Exercicio02.genruntimeconfig.cache
+C:\_fontes\Ada_BTG_2023\SegundoModulo_Ada_BTG\ExercicioPrimeiraAula\Exercicio02_Interface_Aula02\Exercicio02\obj\Debug\net6.0\ref\Exercicio02.dll
