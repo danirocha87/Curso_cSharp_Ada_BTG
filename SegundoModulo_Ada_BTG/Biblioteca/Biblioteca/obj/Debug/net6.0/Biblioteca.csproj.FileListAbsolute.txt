@@ -1,0 +1,15 @@
+C:\_fontes\Ada_BTG_2023\SegundoModulo_Ada_BTG\Biblioteca\Biblioteca\bin\Debug\net6.0\Biblioteca.exe
+C:\_fontes\Ada_BTG_2023\SegundoModulo_Ada_BTG\Biblioteca\Biblioteca\bin\Debug\net6.0\Biblioteca.deps.json
+C:\_fontes\Ada_BTG_2023\SegundoModulo_Ada_BTG\Biblioteca\Biblioteca\bin\Debug\net6.0\Biblioteca.runtimeconfig.json
+C:\_fontes\Ada_BTG_2023\SegundoModulo_Ada_BTG\Biblioteca\Biblioteca\bin\Debug\net6.0\Biblioteca.dll
+C:\_fontes\Ada_BTG_2023\SegundoModulo_Ada_BTG\Biblioteca\Biblioteca\bin\Debug\net6.0\Biblioteca.pdb
+C:\_fontes\Ada_BTG_2023\SegundoModulo_Ada_BTG\Biblioteca\Biblioteca\obj\Debug\net6.0\Biblioteca.csproj.AssemblyReference.cache
+C:\_fontes\Ada_BTG_2023\SegundoModulo_Ada_BTG\Biblioteca\Biblioteca\obj\Debug\net6.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\_fontes\Ada_BTG_2023\SegundoModulo_Ada_BTG\Biblioteca\Biblioteca\obj\Debug\net6.0\Biblioteca.AssemblyInfoInputs.cache
+C:\_fontes\Ada_BTG_2023\SegundoModulo_Ada_BTG\Biblioteca\Biblioteca\obj\Debug\net6.0\Biblioteca.AssemblyInfo.cs
+C:\_fontes\Ada_BTG_2023\SegundoModulo_Ada_BTG\Biblioteca\Biblioteca\obj\Debug\net6.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\_fontes\Ada_BTG_2023\SegundoModulo_Ada_BTG\Biblioteca\Biblioteca\obj\Debug\net6.0\Biblioteca.dll
+C:\_fontes\Ada_BTG_2023\SegundoModulo_Ada_BTG\Biblioteca\Biblioteca\obj\Debug\net6.0\refint\Biblioteca.dll
+C:\_fontes\Ada_BTG_2023\SegundoModulo_Ada_BTG\Biblioteca\Biblioteca\obj\Debug\net6.0\Biblioteca.pdb
+C:\_fontes\Ada_BTG_2023\SegundoModulo_Ada_BTG\Biblioteca\Biblioteca\obj\Debug\net6.0\Biblioteca.genruntimeconfig.cache
+C:\_fontes\Ada_BTG_2023\SegundoModulo_Ada_BTG\Biblioteca\Biblioteca\obj\Debug\net6.0\ref\Biblioteca.dll

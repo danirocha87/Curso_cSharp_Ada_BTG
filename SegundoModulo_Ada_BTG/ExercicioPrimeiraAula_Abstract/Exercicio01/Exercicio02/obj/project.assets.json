@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\_fontes\\Ada_BTG_2023\\SegundoModulo_Ada_BTG\\ExercicioPrimeiraAula\\Exercicio01\\Exercicio02\\Exercicio02.csproj",
+      "projectUniqueName": "C:\\_fontes\\Ada_BTG_2023\\SegundoModulo_Ada_BTG\\ExercicioPrimeiraAula_Abstract\\Exercicio01\\Exercicio02\\Exercicio02.csproj",
       "projectName": "Exercicio02",
-      "projectPath": "C:\\_fontes\\Ada_BTG_2023\\SegundoModulo_Ada_BTG\\ExercicioPrimeiraAula\\Exercicio01\\Exercicio02\\Exercicio02.csproj",
+      "projectPath": "C:\\_fontes\\Ada_BTG_2023\\SegundoModulo_Ada_BTG\\ExercicioPrimeiraAula_Abstract\\Exercicio01\\Exercicio02\\Exercicio02.csproj",
       "packagesPath": "C:\\Users\\danio\\.nuget\\packages\\",
-      "outputPath": "C:\\_fontes\\Ada_BTG_2023\\SegundoModulo_Ada_BTG\\ExercicioPrimeiraAula\\Exercicio01\\Exercicio02\\obj\\",
+      "outputPath": "C:\\_fontes\\Ada_BTG_2023\\SegundoModulo_Ada_BTG\\ExercicioPrimeiraAula_Abstract\\Exercicio01\\Exercicio02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\danio\\AppData\\Roaming\\NuGet\\NuGet.Config",

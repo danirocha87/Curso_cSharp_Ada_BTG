@@ -8,10 +8,16 @@ namespace Cinema
 {
     public class Sessao
     {
+        //propriedade -atributo
         private Filme  Filme { get; set; }
+
+        //propriedade -atributo
         private Sala Sala { get; set; }
+
+        //propriedade -atributo
         private DateTime DataHora { get; set; }
 
+        //construtor da classe, via injeção de dependencia
         public Sessao(Sala sala, DateTime dataHora)
         {
             Sala = sala;

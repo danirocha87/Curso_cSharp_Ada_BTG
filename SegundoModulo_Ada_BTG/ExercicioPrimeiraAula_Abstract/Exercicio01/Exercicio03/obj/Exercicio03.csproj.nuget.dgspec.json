@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\_fontes\\Ada_BTG_2023\\SegundoModulo_Ada_BTG\\ExercicioPrimeiraAula\\Exercicio01\\Exercicio03\\Exercicio03.csproj": {}
+    "C:\\_fontes\\Ada_BTG_2023\\SegundoModulo_Ada_BTG\\ExercicioPrimeiraAula_Abstract\\Exercicio01\\Exercicio03\\Exercicio03.csproj": {}
   },
   "projects": {
-    "C:\\_fontes\\Ada_BTG_2023\\SegundoModulo_Ada_BTG\\ExercicioPrimeiraAula\\Exercicio01\\Exercicio03\\Exercicio03.csproj": {
+    "C:\\_fontes\\Ada_BTG_2023\\SegundoModulo_Ada_BTG\\ExercicioPrimeiraAula_Abstract\\Exercicio01\\Exercicio03\\Exercicio03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\_fontes\\Ada_BTG_2023\\SegundoModulo_Ada_BTG\\ExercicioPrimeiraAula\\Exercicio01\\Exercicio03\\Exercicio03.csproj",
+        "projectUniqueName": "C:\\_fontes\\Ada_BTG_2023\\SegundoModulo_Ada_BTG\\ExercicioPrimeiraAula_Abstract\\Exercicio01\\Exercicio03\\Exercicio03.csproj",
         "projectName": "Exercicio03",
-        "projectPath": "C:\\_fontes\\Ada_BTG_2023\\SegundoModulo_Ada_BTG\\ExercicioPrimeiraAula\\Exercicio01\\Exercicio03\\Exercicio03.csproj",
+        "projectPath": "C:\\_fontes\\Ada_BTG_2023\\SegundoModulo_Ada_BTG\\ExercicioPrimeiraAula_Abstract\\Exercicio01\\Exercicio03\\Exercicio03.csproj",
         "packagesPath": "C:\\Users\\danio\\.nuget\\packages\\",
-        "outputPath": "C:\\_fontes\\Ada_BTG_2023\\SegundoModulo_Ada_BTG\\ExercicioPrimeiraAula\\Exercicio01\\Exercicio03\\obj\\",
+        "outputPath": "C:\\_fontes\\Ada_BTG_2023\\SegundoModulo_Ada_BTG\\ExercicioPrimeiraAula_Abstract\\Exercicio01\\Exercicio03\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\danio\\AppData\\Roaming\\NuGet\\NuGet.Config",

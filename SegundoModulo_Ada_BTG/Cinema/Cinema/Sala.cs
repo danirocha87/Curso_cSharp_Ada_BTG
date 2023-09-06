@@ -8,7 +8,7 @@ namespace Cinema
 {
     public  class Sala
     {
-
+        //propriedade/atributo
         public int quantidadeCadeiras { get; set; }
 
         public int Numero { get; set; }
