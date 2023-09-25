@@ -1,0 +1,15 @@
+C:\Users\danio\OneDrive\Área de Trabalho\Aula3\AplicacaoConsole\bin\Debug\net6.0\AplicacaoConsole.exe
+C:\Users\danio\OneDrive\Área de Trabalho\Aula3\AplicacaoConsole\bin\Debug\net6.0\AplicacaoConsole.deps.json
+C:\Users\danio\OneDrive\Área de Trabalho\Aula3\AplicacaoConsole\bin\Debug\net6.0\AplicacaoConsole.runtimeconfig.json
+C:\Users\danio\OneDrive\Área de Trabalho\Aula3\AplicacaoConsole\bin\Debug\net6.0\AplicacaoConsole.dll
+C:\Users\danio\OneDrive\Área de Trabalho\Aula3\AplicacaoConsole\bin\Debug\net6.0\AplicacaoConsole.pdb
+C:\Users\danio\OneDrive\Área de Trabalho\Aula3\AplicacaoConsole\obj\Debug\net6.0\AplicacaoConsole.csproj.AssemblyReference.cache
+C:\Users\danio\OneDrive\Área de Trabalho\Aula3\AplicacaoConsole\obj\Debug\net6.0\AplicacaoConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danio\OneDrive\Área de Trabalho\Aula3\AplicacaoConsole\obj\Debug\net6.0\AplicacaoConsole.AssemblyInfoInputs.cache
+C:\Users\danio\OneDrive\Área de Trabalho\Aula3\AplicacaoConsole\obj\Debug\net6.0\AplicacaoConsole.AssemblyInfo.cs
+C:\Users\danio\OneDrive\Área de Trabalho\Aula3\AplicacaoConsole\obj\Debug\net6.0\AplicacaoConsole.csproj.CoreCompileInputs.cache
+C:\Users\danio\OneDrive\Área de Trabalho\Aula3\AplicacaoConsole\obj\Debug\net6.0\AplicacaoConsole.dll
+C:\Users\danio\OneDrive\Área de Trabalho\Aula3\AplicacaoConsole\obj\Debug\net6.0\refint\AplicacaoConsole.dll
+C:\Users\danio\OneDrive\Área de Trabalho\Aula3\AplicacaoConsole\obj\Debug\net6.0\AplicacaoConsole.pdb
+C:\Users\danio\OneDrive\Área de Trabalho\Aula3\AplicacaoConsole\obj\Debug\net6.0\AplicacaoConsole.genruntimeconfig.cache
+C:\Users\danio\OneDrive\Área de Trabalho\Aula3\AplicacaoConsole\obj\Debug\net6.0\ref\AplicacaoConsole.dll
